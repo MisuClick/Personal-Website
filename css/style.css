@@ -295,4 +295,15 @@ h2 {
     .project-item h3 {
         font-size: 1.5rem;
     }
+
+    .project-images {
+        flex-direction: column; 
+        align-items: center; 
+    }
+
+    .project-images img {
+        height: 200px; 
+        margin-bottom: 10px; 
+        width: 100%; 
+    }
 }
