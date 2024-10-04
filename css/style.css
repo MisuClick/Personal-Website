@@ -309,12 +309,5 @@ h2 {
     .project-images {
         flex-direction: column; 
         align-items: center; 
-    }
-
-    .project-images img {
-        height: 200px; 
-        margin-bottom: 10px; 
-        width: 100%; 
-    }
-    
+    } 
 }
